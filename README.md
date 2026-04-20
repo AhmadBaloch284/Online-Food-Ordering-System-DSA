@@ -136,9 +136,3 @@ The system uses:
 - **Rdan Tufail**  
 
 ---
-
-## 🎓 Course
-**Data Structures (DSA Project)**  
-COMSATS University Islamabad  
-
----
